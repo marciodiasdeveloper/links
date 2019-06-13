@@ -2,4 +2,4 @@
 
 ## React Native
 
-- (Masks) - https://github.com/benhurott/react-native-masked-text
+- Input Masks - https://github.com/benhurott/react-native-masked-text
