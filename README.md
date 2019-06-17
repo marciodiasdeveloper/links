@@ -7,3 +7,4 @@
 ## Hackz
 
 - TheFatRat - https://github.com/Screetsec/TheFatRat
+- Wifite - https://github.com/derv82/wifite2
