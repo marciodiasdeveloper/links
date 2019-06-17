@@ -8,3 +8,7 @@
 
 - TheFatRat - https://github.com/Screetsec/TheFatRat
 - Wifite - https://github.com/derv82/wifite2
+
+## Hacks Docs
+
+- TheFatRat - https://null-byte.wonderhowto.com/how-to/mac-for-hackers-install-metasploit-framework-0174517/
