@@ -11,4 +11,4 @@
 
 ## Hacks Docs
 
-- TheFatRat - https://null-byte.wonderhowto.com/how-to/mac-for-hackers-install-metasploit-framework-0174517/
+- Metasploit - https://null-byte.wonderhowto.com/how-to/mac-for-hackers-install-metasploit-framework-0174517/
