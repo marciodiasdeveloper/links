@@ -15,3 +15,4 @@
 ## Hacks Docs
 
 - Metasploit - https://null-byte.wonderhowto.com/how-to/mac-for-hackers-install-metasploit-framework-0174517/
+- Shellphish - https://github.com/thelinuxchoice/shellphish
