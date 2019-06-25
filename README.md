@@ -3,6 +3,8 @@
 ## React Native
 
 - Input Masks - https://github.com/benhurott/react-native-masked-text
+- Linear Gradient - https://github.com/react-native-community/react-native-linear-gradient
+- Geolocation - https://github.com/Agontuk/react-native-geolocation-service
 
 ## Images
 - http://leet.co.in
