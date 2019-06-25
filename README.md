@@ -10,6 +10,13 @@
 - Linear Gradient - https://github.com/react-native-community/react-native-linear-gradient
 - Geolocation - https://github.com/Agontuk/react-native-geolocation-service
 
+## Laravel
+
+- Laravel - https://laravel.com/
+- Laravel Backup - https://github.com/spatie/laravel-backup
+
+## Ionic
+
 ## Images
 - http://leet.co.in
 
