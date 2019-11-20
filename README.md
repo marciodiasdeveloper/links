@@ -15,6 +15,9 @@
 - Laravel - https://laravel.com/
 - Laravel Backup - https://github.com/spatie/laravel-backup
 
+## Github
+- Adicionar chave sdd na conta github - https://medium.com/@rgdev/como-adicionar-uma-chave-ssh-na-sua-conta-do-github-linux-e0f19bbc4265
+
 ## Ionic
 
 ## Colors
