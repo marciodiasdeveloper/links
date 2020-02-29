@@ -25,6 +25,8 @@
 
 ## Images
 - http://leet.co.in
+- https://getwaves.io/
+- https://undraw.co/
 
 ## Hackz
 
