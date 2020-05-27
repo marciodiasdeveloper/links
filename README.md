@@ -37,3 +37,6 @@
 
 - Metasploit - https://null-byte.wonderhowto.com/how-to/mac-for-hackers-install-metasploit-framework-0174517/
 - Shellphish - https://github.com/thelinuxchoice/shellphish
+
+## Music Free Videos
+- https://mixkit.co/free-stock-music/house-and-electronica/?page=2 - https://mixkit.co/free-stock-music/house-and-electronica/?page=2
