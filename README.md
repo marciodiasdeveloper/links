@@ -27,6 +27,7 @@
 - http://leet.co.in
 - https://getwaves.io/
 - https://undraw.co/
+- https://blush.design/
 
 ## Hackz
 
